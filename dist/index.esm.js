@@ -1874,8 +1874,8 @@ var Icon$P = function (props) {
 
 var Logo = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
-    return (React.createElement(Svg, __assign({ viewBox: "0 0 200 40" }, props),
-        React.createElement("image", { width: "200", height: "40", href: isDark ? '/images/kawaii/logo/LogoTextNewDark.png' : '/images/kawaii/logo/LogoTextNewWhite.png' })));
+    return (React.createElement(Svg, __assign({ viewBox: "0 0 180 40" }, props),
+        React.createElement("image", { width: "180", height: "40", href: isDark ? '/images/kawaii/logo/LogoTextNewDark.png' : '/images/kawaii/logo/LogoTextNewWhite.png' })));
 };
 
 var Icon$Q = function (props) {
