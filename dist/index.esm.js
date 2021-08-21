@@ -2220,11 +2220,11 @@ var links = [
 ];
 var socials = [
     {
-      {
-          label: "Discord",
-          icon: "DiscordIcon",
-          href: "/"
-      },
+        label: "Discord",
+        icon: "DiscordIcon",
+        href: "/"
+    },
+    {
         label: "Telegram",
         icon: "TelegramIcon",
         items: [
