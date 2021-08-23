@@ -88,7 +88,7 @@ var Svg = styled__default['default'].svg(templateObject_3 || (templateObject_3 =
 }, styledSystem.space);
 Svg.defaultProps = {
     color: "text",
-    width: "20px",
+    width: "24px",
     xmlns: "http://www.w3.org/2000/svg",
     spin: false,
 };
