@@ -1539,7 +1539,7 @@ var mediaQueries = {
 var shadows = {
     level1: "0px 2px 12px -8px rgba(25, 19, 38, 0.1), 0px 1px 1px rgba(25, 19, 38, 0.05)",
     active: "0px 0px 0px 1px #ff6633, 0px 0px 4px 8px rgba(31, 199, 212, 0.4)",
-    success: "0px 0px 0px 1px #dbaa0a, 0px 0px 0px 4px rgba(49, 208, 170, 0.2)",
+    success: "0px 0px 0px 1px #f4bd0b, 0px 0px 0px 4px rgba(49, 208, 170, 0.2)",
     warning: "0px 0px 0px 1px #ED4B9E, 0px 0px 0px 4px rgba(237, 75, 158, 0.2)",
     focus: "0px 0px 0px 1px #000080, 0px 0px 0px 4px rgba(118, 69, 217, 0.6)",
     inset: "inset 0px 2px 2px -1px rgba(74, 74, 104, 0.1)",
@@ -2145,7 +2145,7 @@ var links = [
       label: 'Dividends Platform',
       icon: 'DividendsIcon',
       href: '/',
-    },    
+    },
     {
         label: "Lottery",
         icon: "TicketIcon",
@@ -2830,11 +2830,11 @@ var templateObject_1$K;
 
 var baseColors = {
     failure: "#e62e00",
-    primary: "#dbaa0a",
-    primaryBright: "#dbaa0a",
+    primary: "#f4bd0b",
+    primaryBright: "#f4bd0b",
     primaryDark: "#cc3300",
     secondary: "#000080",
-    success: "#dbaa0a",
+    success: "#f4bd0b",
     warning: "#FFB237",
 };
 var brandColors = {
