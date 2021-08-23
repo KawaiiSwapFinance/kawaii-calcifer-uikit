@@ -2234,7 +2234,7 @@ var socials = [
     {
         label: "Discord",
         icon: "DiscordIcon",
-        href: "/"
+        href: "https://discord.gg/rhkHuSMzTR"
     },
     {
         label: "Telegram",
